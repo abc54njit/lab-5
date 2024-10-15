@@ -1,0 +1,9 @@
+.header{
+    background-color: brown;
+    color:blanchedalmond;
+    height: 100px;
+    width: 100px;
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted;
+}
