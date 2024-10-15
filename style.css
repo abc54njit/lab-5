@@ -1,9 +1,37 @@
 .header{
-    background-color: brown;
-    color:blanchedalmond;
-    height: 100px;
-    width: 100px;
+    background-color: rgba(42, 165, 151, 0.501);
+    color:rgb(255, 255, 255);
+    height: 150px;
+    width: 200px;
     border-width: 10px;
     border-color: azure;
     border-style: dotted;
+}
+nav{
+    background-color: rgb(226, 39, 120);
+    color:aliceblue
+}
+nav ul li {
+    
+    color: azure;
+    display: inline-block;
+    margin-right: 30px;
+}
+.content {
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted;   
+}
+.footer {
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+    height: 50px;
+    width: 100px;
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted;   
 }
