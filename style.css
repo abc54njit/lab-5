@@ -1,15 +1,18 @@
 .header{
     background-color: rgba(42, 165, 151, 0.501);
     color:rgb(255, 255, 255);
-    height: 150px;
-    width: 200px;
+    height: 80px;
+    width: 6000px;
     border-width: 10px;
     border-color: azure;
     border-style: dotted;
+    margin-bottom: 5%;
 }
 nav{
     background-color: rgb(226, 39, 120);
-    color:aliceblue
+    color:aliceblue;
+    width: 6000px;
+    height: 50px;
 }
 nav ul li {
     
@@ -29,9 +32,22 @@ nav ul li {
 .footer {
     background-color: rgba(42, 165, 138, 0.501);
     color:rgb(255, 255, 255);
-    height: 50px;
+     height: 50px;
     width: 100px;
     border-width: 10px;
     border-color: azure;
-    border-style: dotted;   
+    border-style: dotted;  
+}
+.box{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 200px;
+    width: 300px;
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted;  
+}
+.responsive-box {
+    width:50%;
+    height:50%
 }
