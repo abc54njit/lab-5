@@ -49,5 +49,42 @@ nav ul li {
 }
 .responsive-box {
     width:50%;
-    height:50%
+    height:50%;
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted;  
+}
+.padded-text{
+    padding: 20px;
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted;  
+}
+.custom-padding{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    border-width: 10px;
+    border-color: azure;
+    border-style: dotted; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.border-box {
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;  
 }
