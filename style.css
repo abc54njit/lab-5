@@ -88,3 +88,84 @@ nav ul li {
     border-color: black;
     border-style: solid;  
 }
+.rounded-border{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    border-width: 3px;
+    border-color: red;
+    border-style: dotted;  
+    border-radius: 15px; 
+}
+.margin-text{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid; 
+    margin: 30px; 
+
+}
+.custom-margin{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid; 
+    margin: 20px 40px 20px 40px; 
+
+}
+.inline-element{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    display: inline;
+}
+.block-element {
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    display: block; 
+}
+.inline-block-element{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    display: inline-block; 
+ 
+}
+.hidden-element{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    display: none; 
+}
+.visible-element{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    visibility: visible;
+}
+.invisible-element{
+    background-color: rgba(42, 165, 138, 0.501);
+    color:rgb(255, 255, 255);
+     height: 60px;
+    width: 100px;
+    visibility: hidden;
+}
+.transparent-box {
+    background-color: blue;
+    opacity:0.5 ;
+    color:black
+}
+
